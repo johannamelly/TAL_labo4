@@ -56,6 +56,7 @@ Dans la deuxième cellule, on trouve aussi ces données mais comptées et labél
 ```
 
 Le tagger de Stanford semble plus précis; du moins il ne tag pas une même entité avec plusieurs labels différents. 
+On doit quand même reconnaître l'erreur totale de tagging de 'Queequeg', qui est -comme on le sait tous- un cannibale tatoué fort sympathique et non pas un lieu.
 
 En observant les 50 entités nommées les plus fréquentes des deux taggers, on se rends compte de ceci:
 
